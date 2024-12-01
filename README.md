@@ -1,4 +1,4 @@
-﻿> [!NOTE]
+﻿> [!WARNING]
 > This template is currently under construction. Some sections may be incomplete or undergoing revisions. Thank you for your patience!
 
 ![Header](https://github.com/user-attachments/assets/a039ce3a-a652-4d0a-be3e-b0ee4b55c83c)
