@@ -12,7 +12,7 @@
   - [Personal Projects](#personal)
     - [README](#readme)
     - [Wiki](#wiki)
-  - [Professional Projects (Coming Soon)](#professional-projects-coming-soon)
+  - [Professional Projects](#professional-projects)
     - [README](#readme)
     - [Wiki](#wiki)
 - [Future Plans](#future-plans)
@@ -26,18 +26,20 @@
 To use these templates, simply copy the contents of the desired file into your project's directory and customize it to fit your specific project.
 
 ## Templates
+
 ### Personal Projects
+
 |                                                               **File**                                                                |                                               **Description**                                                |
 | :-----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
 |        [README](https://github.com/FizzyMo/Templates-Personal-Projects/blob/main/personal-project-template/README-template.md)        |    A template for your project's README file. Provides a structured outline for describing your project.     |
 | [Wiki Homepage](https://github.com/FizzyMo/Templates-Personal-Projects/blob/main/personal-project-template/wiki-homepage-template.md) | A template for the homepage of your project's wiki. Helps organize and present detailed project information. |
 
-### Professional Projects (Coming Soon)
+### Professional Projects
 
-| **Template**  | **Description**                                                                                   |
-|:-------------:|:-------------------------------------------------------------------------------------------------:|
-| README        | A template for professional project README files, incorporating best practices for documentation. |
-| Wiki Homepage | A template for the homepage of your project's wiki, tailored for professional projects.           |
+| **Template**  |                                          **Description**                                          |
+| :-----------: | :-----------------------------------------------------------------------------------------------: |
+|    [README](https://github.com/FizzyMo/Templates-Personal-Projects/blob/main/professional-project-template/README-template.md)     | A template for professional project README files, incorporating best practices for documentation. |
+| [Wiki Homepage](https://github.com/FizzyMo/Templates-Personal-Projects/blob/main/professional-project-template/wiki-homepage-template.md) |      A template for the homepage of your project's wiki, tailored for professional projects.      |
 
 ## Future Plans
 
