@@ -3,8 +3,8 @@
 
 ![Header](https://github.com/user-attachments/assets/a039ce3a-a652-4d0a-be3e-b0ee4b55c83c)
 
-<h1 align="center">Personal Project Template</h1>
-
+<h1 align="center">Project Template</h1>
+This repository provides templates for structuring and documenting both personal and professional projects. It includes templates for README files and wiki homepages, helping you organize your project information effectively.
 <h2 align="center">Table of Contents</h2>
 
 - [Getting Started](#getting-started)
@@ -15,7 +15,8 @@
   - [Professional Projects](#professional-projects)
     - [README](#readme)
     - [Wiki](#wiki)
-- [Future Plans](#future-plans)
+- [Template Structure](#template-structure)
+* [Documentation](#documentation)
 - [License](#license)
 - [Contact and Support](#contact-and-support)
   - [Contact Information](#contact-information)
@@ -41,9 +42,28 @@ To use these templates, simply copy the contents of the desired file into your p
 |    [README](https://github.com/FizzyMo/Templates-Personal-Projects/blob/main/professional-project-template/README-template.md)     | A template for professional project README files, incorporating best practices for documentation. |
 | [Wiki Homepage](https://github.com/FizzyMo/Templates-Personal-Projects/blob/main/professional-project-template/wiki-homepage-template.md) |      A template for the homepage of your project's wiki, tailored for professional projects.      |
 
-## Future Plans
-
-- **Starter Code:** Boilerplate code for various programming languages (HTML, Java, JavaScript, CSS, Python, etc.) to help you kickstart your coding projects.
+## Template Structure
+```
+project-templates/
+├── templates/
+│   ├── readmes/
+│       ├── personal.md
+│       └── professional.md
+│   └── wikis/
+│       ├── personal.md
+│       └── professional.md
+├── docs/ 
+│   ├── readmes/
+│       ├── personal.md
+│       └── professional.md
+│   └── wikis/
+│       ├── personal.md
+│       └── professional.md
+├── LICENSE
+└── README.md
+```
+## Documentation
+Refer to the [docs]() directory for detailed explanations and usage instructions for each template.
 
 ## License
 
